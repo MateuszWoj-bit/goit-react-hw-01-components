@@ -1,0 +1,29 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    padding: 2vh 0px;
+     
+     text-align: center;
+      flex-basis: calc((100%) / 5);
+}
+.items{
+ display: flex;
+    
+    flex-wrap: wrap;
+}
+
+.statistics{
+   width:30vw; 
+    margin-top: 12px;
+   }
+
+ .title{
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+     padding: 2vh 0px;
+ }
+ .percentage{
+  font-size: 24px;
+ }
