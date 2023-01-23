@@ -1,4 +1,5 @@
-import { FriendListItem} from './FriendListItem';
+import { FriendListItem } from './FriendListItem';
+import PropTypes from 'prop-types';
 
 export const FriendList = props => (
   <ul>
@@ -13,3 +14,6 @@ export const FriendList = props => (
   </ul>
 );
 
+FriendList.propTypes = {
+  friends: PropTypes.array.isRequired  
+};
