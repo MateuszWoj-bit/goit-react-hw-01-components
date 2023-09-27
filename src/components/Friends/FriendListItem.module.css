@@ -19,7 +19,7 @@ background-color: red;
     justify-content: flex-start;
     justify-items: center; 
     background-color: white;   
-    width: 15vw;
+    width: fit-content;
     margin-top: 1vh;
     padding: 3px;
    -webkit-box-shadow: 8px 8px 24px 0px rgba(4, 4, 4, 1);

@@ -28,6 +28,12 @@
     border-bottom-right-radius: 5px;
 }
 
+.quantity{
+font-weight: bold;
+color: rgb(18, 34, 54);
+}
+
+
 .description{
   display: flex;
     justify-content: baseline;
@@ -52,7 +58,6 @@
     align-items: center;    
     flex-direction: column;
     overflow: hidden;
-
     
 }
 
@@ -71,7 +76,4 @@
    margin-top: 5px; 
    color: rgb(118, 134, 150);
 }
-.quantity{
-font-weight: bold;
-color: rgb(18, 34, 54);
-}
+
