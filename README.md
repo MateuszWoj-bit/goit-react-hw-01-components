@@ -1,19 +1,19 @@
-# Project Summary
+# Project Summary 📚
 
 - **Name:** HW-01-Components
 - **Version:** 0.1.0
 - **Private:** Yes
-- **Homepage:** [GoIT-React-HW-01-Components](https://mateuszwoj-bit.github.io/goit-react-hw-01-components/)
+- 🏠 **Homepage:** [GoIT-React-HW-01-Components](https://mateuszwoj-bit.github.io/goit-react-hw-01-components/)
 
 **Description:** This project is a React application designed to serve as a template or starter kit for React-based homework assignments. It includes various dependencies for testing and development, such as Jest, React Testing Library, and ESLint.
 
-# Installation Guide
+# Installation Guide🦮
 
 Follow these steps to set up and run the project:
 
 1. **Clone the Repository:**
    Clone the repository from its source (if available) using the following command:
-git clone <repository_url>
+ ```git clone <repository_url> ```
 
 2. **Navigate to Project Directory:**
 Change your current directory to the project folder:
