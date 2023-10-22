@@ -6,7 +6,7 @@
 - 🏠 **Homepage:** [GoIT-React-HW-01-Components](https://mateuszwoj-bit.github.io/goit-react-hw-01-components/)
 - ✉️ **Contact Creator:** [Email Me](mailto:matwojcikowski@gmail.com)
 
-**Description:** This project is a React application designed to serve as a template or starter kit for React-based homework assignments. It includes various dependencies for testing and development, such as Jest, React Testing Library, and ESLint.
+**Description:** This project is a React application designed to serve as a template or starter kit for React-based homework assignments. It includes various dependencies for testing and development, such as Jest, React Testing Library, and ESLint. 
 
 # Installation Guide🦮
 
